@@ -24,11 +24,13 @@ The Jenkins pipeline (`Jenkinsfile`) consists of three automated stages:
 ## 📸 Deployment Screenshots
 
 ### 1. Jenkins Stage View (Build #3)
-<!-- Drop your Stage View / Dashboard screenshot here on GitHub -->
+<img width="1600" height="698" alt="jenkins-demo" src="https://github.com/user-attachments/assets/f681582c-5b09-4539-b67e-946f082de171" />
+
 
 
 ### 2. Console Output (Finished: SUCCESS)
-<!-- Drop your Console Output screenshot here on GitHub -->
+<img width="1475" height="343" alt="jenkins-linux" src="https://github.com/user-attachments/assets/5cbd60e0-5b11-4599-a497-9e944c4977eb" />
+
 
 
 ---
